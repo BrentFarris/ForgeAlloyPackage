@@ -1,10 +1,10 @@
 {
     "name": "BeardedManStudios.Alloy.Editor.Tests",
     "references": [
-        "GUID:00ab96d0161681b40b8bdffc123d416a",
-        "GUID:5316641993e4c9e4fb909a373a88dfc5",
-        "GUID:0acc523941302664db1f4e527237feb3",
-        "GUID:27619889b8ba8c24980f49ee34dbb44a"
+        "BeardedManStudios.Alloy.Editor",
+        "BeardedManStudios.Alloy.Runtime",
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner"
     ],
     "includePlatforms": [
         "Editor"
@@ -16,7 +16,9 @@
         "nunit.framework.dll"
     ],
     "autoReferenced": false,
-    "defineConstraints": [],
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
     "versionDefines": [],
     "noEngineReferences": false
 }

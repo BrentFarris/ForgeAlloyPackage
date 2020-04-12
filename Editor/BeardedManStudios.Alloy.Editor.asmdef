@@ -1,7 +1,7 @@
 {
     "name": "BeardedManStudios.Alloy.Editor",
     "references": [
-        "GUID:00ab96d0161681b40b8bdffc123d416a"
+        "BeardedManStudios.Alloy.Runtime"
     ],
     "includePlatforms": [
         "Editor"
