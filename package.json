@@ -1,6 +1,6 @@
 {
   "name": "com.beardedmanstudios.alloy",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "displayName": "Forge Alloy",
   "description": "A networking library for Unity",
   "unity": "2019.1",
