@@ -1,0 +1,19 @@
+{
+  "name": "com.beardedmanstudios.alloy",
+  "version": "0.1.0",
+  "displayName": "Forge Alloy",
+  "description": "A networking library for Unity",
+  "unity": "2019.1",
+  "dependencies": {
+  },
+  "keywords": [
+    "forge",
+    "networking",
+    "alloy"
+  ],
+  "author": {
+    "name": "Bearded Man Studios",
+    "email": "example@example.com",
+    "url": "https://github.com/BeardedManStudios/ForgeNetworkingRemastered"
+  }
+}
